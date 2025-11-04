@@ -1,8 +1,6 @@
 # Heart-Failure-Dashboard
 1)The Heart Failure Patient Analysis Dashboard – Power BI Project is a healthcare analytics project that focuses on understanding and visualizing key factors influencing heart failure outcomes.
-
 This interactive Power BI dashboard analyzes patient clinical records to uncover insights related to mortality risk, survival trends, and major health indicators such as age, blood pressure, ejection fraction, serum creatinine, and diabetes.
-
 The project demonstrates end-to-end data analytics skills — from data cleaning and transformation to visualization and storytelling — to support data-driven healthcare decisions and early diagnosis.
 
 2) Key Highlights:
